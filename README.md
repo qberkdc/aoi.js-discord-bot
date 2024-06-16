@@ -2,7 +2,7 @@
 A personal bot project made in aoi.js v6 aiming to both entertain and provide users some features to use.
 
 # It's no longer multi-purpose?
-When I first started Dodo-Bot Project, I thought everything was easy, but I was wrong. Maintaining Dodo-Bot v1 was absolutely painful, since you have to fix the apis not working in the commands most of the time, which can be truly annoying, if there is only one person working on a huge bot project. 
+When I first started Project, I thought everything was easy, but I was wrong. Maintaining v1 was absolutely painful, since you have to fix the apis not working in the commands most of the time, which can be truly annoying, if there is only one person working on a huge bot project. 
 
 As time went on, I began to lose my interest at maintaining the bot, since I was busy with school and such. Eventually, I discontinued v1, meaning that it won't be updated anymore. However, as days went on, I began to think on changing the purpose of the bot to be much easier for my development, And so this is how v2 was officially brought back to life, started from scratch and no longer being multi-purpose but at least, a fun bot.
 
